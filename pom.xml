@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>in.zaka.com</groupId>
-  <artifactId>web project</artifactId>
+  <artifactId>webproject</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>war</packaging>
 
